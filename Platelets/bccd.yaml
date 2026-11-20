@@ -1,0 +1,6 @@
+
+train: bccd_yolo/images/train
+val: bccd_yolo/images/val
+
+nc: 3
+names: ['RBC','WBC','Platelets']
